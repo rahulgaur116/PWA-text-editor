@@ -1,4 +1,5 @@
 import { openDB } from 'idb';
+import { header } from './header';
 
 const initdb = async () =>
   openDB('jate', 1, {
@@ -35,3 +36,5 @@ export const getDb = async () => {
 // console.error('getDb not implemented');
 
 initdb();
+
+putDb(header);
