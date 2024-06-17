@@ -21,7 +21,7 @@ export const putDb = async (content) =>
     await store.add(content);
     await tx.done;
   };
-  // console.error('putDb not implemented');
+  // console.error('putDb not implemented'); DO i need to name db as jatedb ?
 
 // TODO: Add logic for a method that gets all the content from the database
 export const getDb = async () => {
