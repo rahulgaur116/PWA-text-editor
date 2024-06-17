@@ -43,6 +43,11 @@ Application DemoManifest.jsonService Worker RegistrationIndexedDB Storage
 ## Credits
 This project was developed as part of the Progressive Web Applications (PWA) course on edX. Special thanks to the course instructors and mentors for their guidance and support.
 
+## Git hub
+link to github repository: https://github.com/rahulgaur116/PWA-text-editor
+Link to render deployment: https://pwa-text-editor-g7cs.onrender.com/
+
+
 ## License
 No License
 
